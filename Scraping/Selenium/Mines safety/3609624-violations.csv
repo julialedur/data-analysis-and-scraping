@@ -1,0 +1,25 @@
+amount_paid,case_no,citation,citation_no,citation_status,contract_id,current_penalty,date_issues,date_terminated,final_order_date,proposed_penalty,s_and_s,section_of_act,standard,standard_url,violator
+100.00 ,000398559,C,8922246  ,Closed,  ,100.00 ,10/29/2015,11/9/2015,1/10/2016 ,100.00,Y,104(a),56.3131,http://www.gpo.gov/fdsys/pkg/CFR-2015-title30-vol1/pdf/CFR-2015-title30-vol1-sec56-3131.pdf,M R Dirt
+100.00 ,000398559,C,8922245  ,Closed,  ,100.00 ,10/29/2015,10/29/2015,1/10/2016 ,100.00,N,104(a),56.20013,http://www.gpo.gov/fdsys/pkg/CFR-2015-title30-vol1/pdf/CFR-2015-title30-vol1-sec56-20013.pdf,M R Dirt
+100.00 ,000398559,C,8922247  ,Closed,  ,100.00 ,10/29/2015,10/29/2015,1/10/2016 ,100.00,N,104(a),56.12018,http://www.gpo.gov/fdsys/pkg/CFR-2015-title30-vol1/pdf/CFR-2015-title30-vol1-sec56-12018.pdf,M R Dirt
+100.00 ,000398559,C,8922244  ,Closed,  ,100.00 ,10/29/2015,11/9/2015,1/10/2016 ,100.00,N,104(a),56.14132(b)(2),http://www.gpo.gov/fdsys/pkg/CFR-2015-title30-vol1/pdf/CFR-2015-title30-vol1-sec56-14132.pdf,M R Dirt
+100.00 ,000323634,C,8717206  ,Closed,  ,100.00 ,4/29/2013,4/29/2013,7/11/2013 ,100.00,N,104(a),56.12032,http://www.gpo.gov/fdsys/pkg/CFR-2013-title30-vol1/pdf/CFR-2013-title30-vol1-sec56-12032.pdf,M R Dirt
+100.00 ,000241220,C,8582218  ,Closed,  ,100.00 ,10/20/2010,10/21/2010,1/19/2011 ,100.00,N,104(a),56.4101,http://www.gpo.gov/fdsys/pkg/CFR-2010-title30-vol1/pdf/CFR-2010-title30-vol1-sec56-4101.pdf,M R Dirt
+207.00 ,000239051,C,8582217  ,Closed,ASI ,207.00 ,10/20/2010,10/20/2010,12/29/2010 ,207.00,Y,104(a),56.9300(b),http://www.gpo.gov/fdsys/pkg/CFR-2010-title30-vol1/pdf/CFR-2010-title30-vol1-sec56-9300.pdf,Lopke Quarries Inc
+100.00 ,000241220,C,8582219  ,Closed,  ,100.00 ,10/20/2010,10/21/2010,1/19/2011 ,100.00,Y,104(a),56.9300(a),http://www.gpo.gov/fdsys/pkg/CFR-2010-title30-vol1/pdf/CFR-2010-title30-vol1-sec56-9300.pdf,M R Dirt
+100.00 ,000208469,C,8570284  ,Closed,  ,100.00 ,12/10/2009,12/10/2009,2/18/2010 ,100.00,N,104(a),56.14101(a)(2),http://www.gpo.gov/fdsys/pkg/CFR-2009-title30-vol1/pdf/CFR-2009-title30-vol1-sec56-14101.pdf,M R Dirt
+100.00 ,000186467,C,6532551  ,Closed,  ,100.00 ,4/1/2009,4/1/2009,7/9/2009 ,100.00,N,104(a),56.14100(d),http://www.gpo.gov/fdsys/pkg/CFR-2009-title30-vol1/pdf/CFR-2009-title30-vol1-sec56-14100.pdf,M R Dirt
+807.00 ,000186467,C,6532550  ,Closed,  ,807.00 ,3/31/2009,4/1/2009,7/9/2009 ,807.00,Y,104(a),56.14107(a),http://www.gpo.gov/fdsys/pkg/CFR-2009-title30-vol1/pdf/CFR-2009-title30-vol1-sec56-14107.pdf,M R Dirt
+error, ,N/A,6060590  ,error,U588 ,error,6/19/2008,O,104(b),error, ,8/7/2008,url missing,url missing,Rock On Supply
+0.00 ,000163667,C,6060589  ,Delinquent,U588 ,"2,000.00 ",6/17/2008,8/7/2008,10/31/2008 ,"2,000.00",Y,104(d)(1),56.15003,http://www.gpo.gov/fdsys/pkg/CFR-2008-title30-vol1/pdf/CFR-2008-title30-vol1-sec56-15003.pdf,Rock On Supply
+100.00 ,000158367,C,6060587  ,Closed,  ,100.00 ,6/17/2008,6/19/2008,9/3/2008 ,100.00,N,104(a),56.14132(a),http://www.gpo.gov/fdsys/pkg/CFR-2008-title30-vol1/pdf/CFR-2008-title30-vol1-sec56-14132.pdf,M R Dirt
+0.00 ,000157938,C,6060591  ,Delinquent,U588 ,100.00 ,6/17/2008,6/17/2008,8/29/2008 ,100.00,N,104(a),56.14132(a),http://www.gpo.gov/fdsys/pkg/CFR-2008-title30-vol1/pdf/CFR-2008-title30-vol1-sec56-14132.pdf,Rock On Supply
+100.00 ,000158367,C,6060562  ,Closed,  ,100.00 ,5/12/2008,6/17/2008,9/3/2008 ,100.00,N,104(a),56.18010,http://www.gpo.gov/fdsys/pkg/CFR-2008-title30-vol1/pdf/CFR-2008-title30-vol1-sec56-18010.pdf,M R Dirt
+100.00 ,000161450,C,6060559  ,Closed,  ,100.00 ,5/12/2008,7/25/2008,10/9/2008 ,100.00,N,104(a),56.14130(c),http://www.gpo.gov/fdsys/pkg/CFR-2008-title30-vol1/pdf/CFR-2008-title30-vol1-sec56-14130.pdf,M R Dirt
+100.00 ,000158367,C,6060560  ,Closed,  ,100.00 ,5/12/2008,5/15/2008,9/3/2008 ,100.00,N,104(a),56.20008(a),http://www.gpo.gov/fdsys/pkg/CFR-2008-title30-vol1/pdf/CFR-2008-title30-vol1-sec56-20008.pdf,M R Dirt
+100.00 ,000158367,C,6060557  ,Closed,  ,100.00 ,5/12/2008,6/3/2008,9/3/2008 ,100.00,N,104(a),46.3(a),http://www.gpo.gov/fdsys/pkg/CFR-2008-title30-vol1/pdf/CFR-2008-title30-vol1-sec46-3.pdf,M R Dirt
+100.00 ,000158367,C,6060563  ,Closed,  ,100.00 ,5/12/2008,6/3/2008,9/3/2008 ,100.00,N,104(a),56.15001,http://www.gpo.gov/fdsys/pkg/CFR-2008-title30-vol1/pdf/CFR-2008-title30-vol1-sec56-15001.pdf,M R Dirt
+100.00 ,000158367,C,6060556  ,Closed,  ,100.00 ,5/12/2008,5/12/2008,9/3/2008 ,100.00,N,104(a),56.1000,http://www.gpo.gov/fdsys/pkg/CFR-2008-title30-vol1/pdf/CFR-2008-title30-vol1-sec56-1000.pdf,M R Dirt
+100.00 ,000158367,C,6060561  ,Closed,  ,100.00 ,5/12/2008,5/15/2008,9/3/2008 ,100.00,N,104(a),56.4200(a)(1),http://www.gpo.gov/fdsys/pkg/CFR-2008-title30-vol1/pdf/CFR-2008-title30-vol1-sec56-4200.pdf,M R Dirt
+100.00 ,000158367,C,6060555  ,Closed,  ,100.00 ,5/12/2008,5/15/2008,9/3/2008 ,100.00,N,104(a),47.31(a),http://www.gpo.gov/fdsys/pkg/CFR-2008-title30-vol1/pdf/CFR-2008-title30-vol1-sec47-31.pdf,M R Dirt
+100.00 ,000158367,C,6060558  ,Closed,  ,100.00 ,5/12/2008,6/3/2008,9/3/2008 ,100.00,N,104(a),56.14132(a),http://www.gpo.gov/fdsys/pkg/CFR-2008-title30-vol1/pdf/CFR-2008-title30-vol1-sec56-14132.pdf,M R Dirt

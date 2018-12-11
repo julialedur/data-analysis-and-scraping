@@ -1,0 +1,9 @@
+amount_paid,case_no,citation,citation_no,citation_status,contract_id,current_penalty,date_issues,date_terminated,final_order_date,proposed_penalty,s_and_s,section_of_act,standard,standard_url,violator
+error, ,N/A,8830352  ,error,  ,error,4/27/2015,O,104(b),error, ,6/5/2015,url missing,url missing,"Prescott Dirt, LLC"
+270.00 ,000383401,O,8929131  ,Closed,  ,270.00 ,4/8/2015,4/27/2015,7/17/2015 ,270.00,Y,104(g)(1),46.5(a),http://www.gpo.gov/fdsys/pkg/CFR-2015-title30-vol1/pdf/CFR-2015-title30-vol1-sec46-5.pdf,"Prescott Dirt, LLC"
+100.00 ,000383401,C,8929130  ,Closed,  ,100.00 ,4/8/2015,4/27/2015,7/17/2015 ,100.00,N,104(a),46.9(a),http://www.gpo.gov/fdsys/pkg/CFR-2015-title30-vol1/pdf/CFR-2015-title30-vol1-sec46-9.pdf,"Prescott Dirt, LLC"
+112.00 ,000383401,C,8929132  ,Closed,  ,112.00 ,4/8/2015,6/5/2015,7/17/2015 ,112.00,N,104(a),56.15001,http://www.gpo.gov/fdsys/pkg/CFR-2015-title30-vol1/pdf/CFR-2015-title30-vol1-sec56-15001.pdf,"Prescott Dirt, LLC"
+100.00 ,000383401,C,8929133  ,Closed,  ,100.00 ,4/8/2015,4/27/2015,7/17/2015 ,100.00,N,104(a),46.3(a),http://www.gpo.gov/fdsys/pkg/CFR-2015-title30-vol1/pdf/CFR-2015-title30-vol1-sec46-3.pdf,"Prescott Dirt, LLC"
+100.00 ,000383401,C,8929129  ,Closed,  ,100.00 ,4/7/2015,4/27/2015,7/17/2015 ,100.00,N,104(a),56.18010,http://www.gpo.gov/fdsys/pkg/CFR-2015-title30-vol1/pdf/CFR-2015-title30-vol1-sec56-18010.pdf,"Prescott Dirt, LLC"
+100.00 ,000383401,C,8929128  ,Closed,  ,100.00 ,4/7/2015,4/27/2015,7/17/2015 ,100.00,N,104(a),56.14100(b),http://www.gpo.gov/fdsys/pkg/CFR-2015-title30-vol1/pdf/CFR-2015-title30-vol1-sec56-14100.pdf,"Prescott Dirt, LLC"
+100.00 ,000366329,C,8830121  ,Closed,  ,100.00 ,9/8/2014,9/8/2014,12/13/2014 ,100.00,N,104(a),50.30(a),http://www.gpo.gov/fdsys/pkg/CFR-2014-title30-vol1/pdf/CFR-2014-title30-vol1-sec50-30.pdf,"Prescott Dirt, LLC"
